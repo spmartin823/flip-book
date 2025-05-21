@@ -1,5 +1,5 @@
 {
-  "name": "flip-book",
+  "name": "seamus-flip-book",
   "version": "1.9.9",
   "description": "3D FlipBook allows to browse images, PDFs or HTMLs as a flipping book. It helps to attract user attention and make more impression on him.",
   "main": "dist/flip-book.js",
@@ -10,24 +10,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iberezansky/flip-book-jquery.git"
+    "url": "git+https://github.com/spmartin823/flip-book.git"
   },
-  "keywords": [
-    "jquery-plugin",
-    "ecosystem:jquery",
-    "flipbook",
-    "jquery flipbook",
-    "flip book",
-    "pdf flipbook",
-    "pdf to flip book",
-    "flip gallery",
-    "magazine",
-    "mobile flipbook",
-    "page flip",
-    "page turn",
-    "pageflip"
-  ],
-  "author": "iberezansky",
+  "author": "spmartin823",
   "license": "GPL-2.0",
   "dependencies": {
     "babel-core": "^6.18.2",
@@ -41,9 +26,5 @@
     "raw-loader": "^0.5.1",
     "three": "^0.81.2",
     "webpack": "^2.1.0-beta.27"
-  },
-  "bugs": {
-    "url": "https://github.com/iberezansky/flip-book-jquery/issues"
-  },
-  "homepage": "https://github.com/iberezansky/flip-book-jquery#readme"
+  }
 }
